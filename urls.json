@@ -1,0 +1,16 @@
+{ 
+    "urls": [ 
+        { 
+            "url": "http://www.饭太硬.com/tv/", 
+            "name": "饭太硬" 
+        }, 
+        { 
+            "url": "http://tv.nxog.top/m/", 
+            "name": "欧歌" 
+        }, 
+        { 
+            "url": "https://liu673cn.github.io/box/m.json", 
+            "name": "1" 
+        } 
+    ] 
+}
