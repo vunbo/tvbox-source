@@ -13,7 +13,7 @@
             "name": "1" 
         }, 
         { 
-            "url": "https://github.com/Vunbo/tvbox-source/blob/main/source/source1.json", 
+            "url": "https://raw.githubusercontent.com/Vunbo/tvbox-source/main/source1.json", 
             "name": "source1" 
         } 
     ] 
