@@ -11,6 +11,10 @@
         { 
             "url": "https://liu673cn.github.io/box/m.json", 
             "name": "1" 
+        }, 
+        { 
+            "url": "https://liu673cn.github.io/box/m.json", 
+            "name": "source1" 
         } 
     ] 
 }
